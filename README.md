@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeep Sudda</h1>
-<h3 align="center">A Passionate FullStack Web Developer from RGUKT,Basar</h3>
+<h3 align="center">A Passionate FullStack Web Developer | Problem Solver | UG'24</h3>
 
 - 🌱 I’m currently learning **AWS and Devops**
 
