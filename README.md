@@ -1,4 +1,3 @@
-![logo](https://github.com/pradeepsudda/pradeepsudda/blob/main/banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Pradeep Sudda</h1>
 <h3 align="center">A Passionate FullStack Web Developer from RGUKT,Basar</h3>
 
