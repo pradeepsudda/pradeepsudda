@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pradeep Sudda</h1>
 <h3 align="center">A Passionate FullStack Web Developer | Problem Solver | UG'24</h3>
 
-- 🌱 I’m currently learning **Amazon Web Services (AWS)**
 
-- 💬 Ask me about **PHP, Java, Mysql, React**
+- 💬 Ask me about **Java, Mysql, Angular**
 
 - 📫 How to reach me **suddapradeep3041@gmail.com**
 
